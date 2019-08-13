@@ -16,7 +16,7 @@
 **1) Explique que son los sistemas empresariales.**
 *Un sistema empresarial es un sistema central de la organización, que garantiza que la información se pueda transmitir atraves de todas las funciones empresariales, y todos los niveles de gestión, para soportar la operación y administración de una empresa.* 
 
-**2) Describa cuales son las características más importantes de una aplicación empresarial
+**2) Describa cuales son las características más importantes de una aplicación empresarial**
  
 
 - Cliente Web
