@@ -1,2 +1,105 @@
-# Practica-1
-Sistemas empresariales
+
+
+#Práctica N° 1
+##Sistemas empresariales
+
+**CARRERA: INGENIERIA DE SISTEMAS**                                   
+
+**MATERIA: TECNOLOGIA EMERGENTES II**
+
+**APELLIDOS Y NOMBRES: SALAZ MAMANI JUAN RODRIGO**
+
+**CI: 9247112**
+
+**FECHA ENTREGA: 13-AGO-2019**
+###1) Explique que son los sistemas empresariales.
+*Un sistema empresarial es un sistema central de la organización, que garantiza que la información se pueda transmitir atraves de todas las funciones empresariales, y todos los niveles de gestión, para soportar la operación y administración de una empresa.* 
+
+###2) Describa cuales son las características más importantes de una aplicación empresarial
+ 
+
+- Cliente Web
+- Directory &
+Security
+Services (LDAP)
+- Enterprise Information
+Systems EIS.
+- Servicios vía
+Web
+Services.
+- Inteligencia de
+Negocios.
+- Base Datos
+Empresa
+- Aplicaciones Desktop
+- otros Dispositivos
+###3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica. Justifique su respuesta.
+
+###4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical.
+ *La diferencia es que en la escalabilidad vertical es que el esfuerzo de este crecimiento es mínimo mientras que el horizontal tiene el modelo que implica tener varios servidores (conocidos como Nodos) trabajando como un todo*.
+
+###5) Que es un servidor Web y que es un servidor de aplicaciones.
+####Servidor Web
+*Es un servidor que almacena los documentos que componen una página web (HTML, CSS, PHP…) y se la proporciona al usuario para que la visualice completa en su navegador de Internet.*
+####Servidor de aplicaciones.
+*Es un tipo de servidor que ejecuta determinadas aplicaciones proporcionando servicios a los ordenadores cliente.Normalmente este tipo de servidores suelen ejecutar aplicaciones J2EE ya que ofrece los estándares para contener los componentes de las aplicaciones si bien, también pueden ejecutar otras como son las del tipo Microsoft conformando los servidores de aplicaciones Windows.*
+
+###6) Con un gráfico explique cómo funciona el protocolo HTTP.
+![Imagen](data:image/jpeg;base64,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E8YxPQu6+xWVEonS1fqT+IN9Pb8q3xjE9C7r7E8YxPQu6+xWVEonS1fqT+IN9Pb8q3xlE9C7r7F8vtF5BG1OyOvsVpRfMUbk8h9yk6Wrj9z4hYvTP6flqoXqyCWicB3Mng0TgO5l+dml+JfUi1eWJVkG0HDFwcatZdAaAS516tDXFuGehXHg0TgO5lifZ1aVhHDLc5cmparWY84lm1o9JhB8PJcwNY6heGuJoLtWF92la1yxopy8FmUIdtRqMjQ6BQHjNMKrN4NE4DuZS1J9IlYtHrMMazScQteCATngF8+DROA7mUqzYDxFBLSBjmFvRpfqV8Jjx4TUtXbKX4xiehd19ieMYnoXdfYrKiUX3+lq/U+IfM309qt8ZRPQu6+xPGMT0LuvsVlRKJ0tX6k/iDfT2/Kt8ZRPQu6+xPGMT0LuvsVlRKJ0tX6k/iDfT2/Kt8YxPQu6+xPGUT0LuvsVlRKJ0tX6k/iDfT2/KsNov9E7r7F92O0hrqgirq4qwovUroW3xa1s4+xOpG3ERjLBNyjIrSx7QWnQdegjUeNQpCw4UF98Oe51CBfdW6DnTj4yrRCvS5YRI++P60IkffH9aEQfnXz42vqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z42vqleid308+Nr6pXond9cyRB03z42vqleid308+Nr6pXond9cyRB03z42vqleid308+Nr6pXond9cyRB03z42vqleid308+Nr6pXond9cyRB03z42vqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB03z5Wvqleid308+Vr6pXond9cyRB0p3+NtrE1pK9E7vouaogIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD//Z)
+
+###7) Explique los elementos importantes de REQUEST en HTTP.
+*Elementos importantes de REQUEST en HTTP:*
+
+- Método http (la acción a realizar)
+- La página para acceder (una url)
+- Parámetros de formulario (como argumentos de un método)
+
+###8) Explique los elementos importantes de RESPONSE en HTTP.
+*Elementos importantes de RESPONSE en HTTP:*
+
+- Un código de estado (para saber si la solicitud fue exitosa)
+- Tipo de contenido (texto, imagen, HTML, etc.)
+- El contenido (el HTML real, la imagen, etc.)
+
+###9) Describa con un gráfico la arquitectura Java EE.
+![imagen 2](https://image.slidesharecdn.com/jatunandjavaee-110905104600-phpapp02/95/desarrollo-de-aplicaciones-empresariales-con-java-ee-4-728.jpg?cb=1316098712)
+
+###10) Explique cuáles son los contenedores, componentes y servicios de Java EE
+####Java EE se basa en tres conceptos claves:
+
+- Servicios
+- Contenedores
+- Componentes
+
+***Los Contenedores:** Son entornos en tiempo de ejecución, es decir un programa que se está ejecutando y tu aplicación la montas sobre este como si fuera un plugin o el cassette para una consola de juegos. Hay varios tipos de contenedores y la agrupación de ellos forman un servidor de aplicaciones.*
+
+***Los Servicios:** Son todas esas características de las que hablamos al comienzo. Estos servicios son proporcionados por un contenedor. Así el programador se concentra en su lógica de negocio y usa estos servicios para su aplicación.*
+
+***Los Componentes:** Son objetos POJO que pueden ser reusados. Estos contienen la lógica de negocio de la aplicación y usan los servicios proporcionados por el contenedor. Hay varios tipos de componentes y según ese tipo son instalados(desplegados) en un contenedor u otro.*
+
+###11) Investigue los métodos más utilizados de las clases HttpServlet, **HttpServletRequest** y **HttpServletResponse**, y para cada uno de los métodos muestre un ejemplo.
+
+*Los  métodos  más  utilizados  de  la  clase  HttpServlet.*
+
+1. doGet(HttpServletRequest req, **HttpServlet** resp): Es el método llamado para procesar información que haya sido enviado con el método GET. Este método es llamado concurrentemente para cada cliente por lo que hay que estar atento por posibles variables compartidas que causen problemas.
+
+2. doPost(HttpServletRequest req, HttpServletResponse resp): Ídem al anterior pero para el método POST, en general se implementa sólo un método y el otro lo referencia.
+
+*Los  métodos  más  utilizados  de  la  clase **HttpServletRequest.***
+
+1. getHeader(String name): Permite obtener el valor de los Headers de HTTP con que fue llamado el servlet.
+2. getCookies(): Retorna un arreglo que contiene todas las cookies que el cliente envía al servlet.
+3. getSession(): Retorna la sesión en la cual se encuentra el cliente.
+
+*Los  métodos  más  utilizados  de  la  clase **HttpServletResponse.***
+
+1. addCookie(Cookie cookie): Para definir nuevas cookies en el cliente.
+2. setHeader(String name, String value): Para definir un header HTTP a enviar al cliente.
+3. sendRedirect(String location): Envía un mensaje al cliente para redireccionar la respuesta a la dirección señalada
+
+
+
+
+
+
+
