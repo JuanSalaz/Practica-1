@@ -34,6 +34,7 @@ Negocios.
 Empresa
 - Aplicaciones Desktop
 - otros Dispositivos
+
 **3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica. Justifique su respuesta.**
 
 **4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical**.
