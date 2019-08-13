@@ -88,7 +88,7 @@ Java EE se basa en tres conceptos claves:**
 
 ***Los Componentes:** Son objetos POJO que pueden ser reusados. Estos contienen la lógica de negocio de la aplicación y usan los servicios proporcionados por el contenedor. Hay varios tipos de componentes y según ese tipo son instalados(desplegados) en un contenedor u otro.*
 
-**11) Investigue los métodos más utilizados de las clases HttpServlet, **HttpServletRequest** **y **HttpServletResponse**, **y para cada uno de los métodos muestre un ejemplo.**
+**11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.**
 
 *Los  métodos  más  utilizados  de  la  clase  HttpServlet.*
 
