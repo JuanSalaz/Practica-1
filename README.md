@@ -1,7 +1,7 @@
 
 
 **Práctica N° 1**
-**Sistemas empresariales
+**Sistemas empresariales**
 
 **CARRERA: INGENIERIA DE SISTEMAS**                                   
 
